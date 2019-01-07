@@ -1,0 +1,7 @@
+*.o
+*.pyc
+*.DS_Store
+*.a
+wrappy*/
+test
+
